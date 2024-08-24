@@ -15,4 +15,5 @@ let a = new RiskData(
     "MacIntel",
 )
 
-console.log(a.generate())
+//console.log(a.generate())
+print(a.generate())
